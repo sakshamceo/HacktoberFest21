@@ -15,8 +15,8 @@ Issues
 Marketplace
 Explore
  
-@yashrajmani 
-yashrajmani
+@Saksham Garg
+sakshamceo@gmail.com
 /
 Hacktoberfest-1
 Public
@@ -109,7 +109,7 @@ console.log('Hello, World!');
 #### Happy Learning & Hacktoberfest :::
 No file chosen
 Attach files by dragging & dropping, selecting or pasting them.
-@yashrajmani
+@sakshamceo
 Commit changes
 Commit summary
 Create README.md
