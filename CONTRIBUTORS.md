@@ -1,4 +1,4 @@
-#### Name: YASH RAJ MANI
-- Place: Bihar, India
-- Bio: CSE undergrad, VIT vellore
-- GitHub: https://github.com/yashrajmani
+#### Name: Saksham garg
+- Place: New Delhi, India
+- Bio: Btech 3rd year IT 
+- GitHub: https://github.com/sakshamceo
