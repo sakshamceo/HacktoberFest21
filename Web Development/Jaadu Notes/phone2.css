@@ -1,0 +1,59 @@
+header{
+    width: 100%;
+}
+.box2{
+    width: 280px;
+    margin-top: 20px;
+    margin-right: 25px;
+    height: 350px;
+    
+}
+textarea{
+    width: 230px;
+}
+.note{
+    width: 250px;
+}
+#dyna{
+    margin-left: 10px;
+}
+.h{
+    width: 250px;
+}
+#main{
+  margin: 0px;
+  padding: 0px;
+}
+.logo{
+    margin-left: 100px;
+}
+.sear{
+    
+    width: 320px;
+    margin: 0px;
+    
+    float: left;
+    padding-left: 30px;
+
+}
+#searchh{
+    width: 250px;
+}
+#notecard{
+    width: 250px;
+}
+.ma{
+  width: 250px;
+}
+.del{
+    margin-left: 70px;
+}
+.ma.your{
+    margin-top: 15px;
+    text-align: center;
+}
+.h{
+  
+    margin-left: 5px;
+    width: 290px;
+}

@@ -1,0 +1,37 @@
+
+.logo{
+    margin-left: 120px;
+}
+#navbar{
+    height: 160px;
+
+}
+.sear{
+   
+    margin-top: 10px;
+    margin-left: 50px;
+}
+#searchh{
+    width: 300px;
+    padding: 8px;
+}
+#searchbtn{
+    margin-top: 5px;
+    margin-left: 10px;
+    padding: 7px;
+}
+.box2{
+    width: 400px;
+}
+#addn{
+    padding: 7px;
+}
+#dyna{
+    margin-left: 50px;
+}
+textarea{
+    width: 300px;
+}
+.note{
+    width: 350px;
+}
