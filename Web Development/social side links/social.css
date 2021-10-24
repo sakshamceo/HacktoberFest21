@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: grey;
+}
+.icon-bar{
+  
+    position: fixed;
+    top: 25%;
+    right: 0;
+    width: 4vw;
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+
+ 
+}
+
+.k{
+    font-size: 1.5rem;
+    text-decoration: none;
+    padding: 15px 3px;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+
+}
+.whats{
+    color: white;
+    background-color: hsl(127, 54%, 53%);
+}
+.twitt{
+    color: white;
+    background-color: hsl(205, 86%, 50%); 
+}
+.face{
+    color: white;
+    background-color: hsl(214, 81%, 50%); 
+}
+.insta{
+    color: white;
+    background-color: hsl(312, 57%, 49%); 
+}
+.pinte{
+    color: white;
+    background-color: hsl(354, 100%, 44%); 
+}
+.youtu{
+    color: white;
+    background-color: hsl(360, 100%, 47%);
+}
+
+
+@media only screen and (max-width: 960px) {
+    .icon-bar{
+        width: 8vw;
+    }
+}
+@media only screen and (max-width: 450px){
+    .icon-bar{
+        width: 13vw;
+    }
+}
