@@ -8,3 +8,8 @@
 - Bio: Btech student
 - GitHub: https://github.com/abithpdm
 
+#### Name: Meghana Gottapu
+- Place: Visakhapatnam, AndhraPradesh
+- Bio: Btech student
+- GitHub: https://github.com/meghanagottapu
+
